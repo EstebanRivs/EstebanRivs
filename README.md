@@ -1,43 +1,34 @@
-# Esteban Rivs
+# Esteban Rivas Molina
 
-Systems-oriented developer  
-Python automation tool builder  
-Cybersecurity path  
-
----
-
-## Projects
-
-[![File Organizer](https://img.shields.io/badge/File%20Organizer-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivs/Dev)
-[![Automation Tools](https://img.shields.io/badge/Automation%20Tools-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivs)
-  
-[![System Utilities](https://img.shields.io/badge/System%20Utilities-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivs)
-[![API Integrations](https://img.shields.io/badge/API%20Integrations-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivs)
+Web Content Editor @ VML · Cybersecurity student @ Universidad de Palermo  
+Buenos Aires, Argentina
 
 ---
 
-## Systems
+## About
 
-Automation scripts  
-API integrations  
-System utilities  
-Tool development  
+I manage and publish web content in Adobe Experience Manager (AEM) for Ford's websites at VML.
+Before that I worked on the Jaguar Land Rover account and as a QA Analyst on the Microsoft account,
+doing functional, regression and UAT testing on websites and digital assets.
 
----
-
-## Environment
-
-Python  
-Git  
-Linux (learning)  
-APIs  
-Automation systems  
+I'm currently studying a Bachelor's degree in Cybersecurity and using this space to document what I learn.
 
 ---
 
-## Focus
+## Currently
 
-Building real-world automation tools  
-Developing system utilities  
-Working with APIs and integrations  
-Cybersecurity-oriented systems development  
+- Studying cybersecurity at Universidad de Palermo
+- Hands-on practice on TryHackMe
+- Linux networking labs (firewalls, iptables, DHCP, NFS, Apache)
+
+---
+
+## Tools
+
+`Adobe Experience Manager` · `Jira` · `Git` · `Python` · `Linux` · `VirtualBox`
+
+---
+
+## Contact
+
+📧 estebanrivasm@icloud.com
